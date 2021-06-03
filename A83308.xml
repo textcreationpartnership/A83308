@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Mercurii 6. Maii, 1646. An ordinance of the Lords and Commons assembled in Parliament: to command all Papists, officers, and souldiers of fortune, and such as have borne armes against the Parliament to depart and remove themselves twenty miles at the least distant from the city of London, &amp;c. by the 12 of May, 1646. H. Elsynge Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83308</idno><idno type="EEBO-CITATION">99861445</idno>
+  <idno type="VID">159678</idno>
+  <idno type="EEBO-PROQUEST">2240902292</idno>
+  
+            <idno type="STC">Wing E2092</idno>
+            <idno type="STC">Thomason E336_2</idno>
+            <idno type="PROQUEST">99861445</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861445e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83308)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159678)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E336[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Die Mercurii 6. Maii, 1646. An ordinance of the Lords and Commons assembled in Parliament: to command all Papists, officers, and souldiers of fortune, and such as have borne armes against the Parliament to depart and remove themselves twenty miles at the least distant from the city of London, &amp;c. by the 12 of May, 1646. H. Elsynge Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Ric. Cotes,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Spies --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Secret service --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159678:1"/>
+            <p>
+               <hi>Die Mercurii</hi> 6. <hi>Maii,</hi> 1646.</p>
+            <p>AN ORDINANCE OF THE LORDS and COMMONS ASSEMBLED IN PARLIAMENT: TO Command all Papists, Officers, and Soul<g ref="char:EOLhyphen"/>diers of Fortune, and such as have borne Armes against the Parliament to depart and remove themselves Twenty Miles at the least distant from the City of <hi>London,</hi> &amp;c. by the 12 of <hi>May,</hi> 1646.</p>
+            <p>H. <hi>Elsynge Cler. Parl. D. Com.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>Ric. Cotes,</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:159678:2"/>
+            <pb n="1" facs="tcp:159678:2"/>
+            <head>AN ORDINANCE OF THE LORDS and COMMONS Assembled in PARLIAMENT.</head>
+            <opener>
+               <dateline>
+                  <date>Die Mercruii, 6 Maii, 1646.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment assembled, by an Ordinance of the 31 of <hi>March</hi> last, for the rea<g ref="char:EOLhyphen"/>sons therein mentioned have ordered
+<pb n="2" facs="tcp:159678:3"/> that all Papists whatsoever, and all Officers and Souldiers of Fortune, and other persons that have borne Armes against the Parliament, not being under restraint, should before the end of the six day of <hi>Aprill</hi> last past, depart out of the Cities of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and <hi>Westminster,</hi> and Lines of Communication, the said Order to continue for the space of one month after the said sixth day of <hi>Aprill</hi> un<g ref="char:EOLhyphen"/>der divers penalties, limitations, and provisoes in the said Ordinance men<g ref="char:EOLhyphen"/>tioned, whereunto relation being had doth and may appeare. And where<g ref="char:EOLhyphen"/>as the said Lords and Commons do take notice that divers persons in o<g ref="char:EOLhyphen"/>bedience to the said Ordinance have departed the said Cities and Lines of Communication, and yet doe re<g ref="char:EOLhyphen"/>main
+<pb n="3" facs="tcp:159678:3"/> in the Townes and Villages neare adjoyning; who upon all at<g ref="char:EOLhyphen"/>tempts that might be made to the di<g ref="char:EOLhyphen"/>sturbance of the peace of the said Ci<g ref="char:EOLhyphen"/>ties, can soon draw themselves toge<g ref="char:EOLhyphen"/>ther for action, and put themselves into a condition to act any mischie<g ref="char:EOLhyphen"/>vous design that may be against the said Cities. The said Lords and Commons for the safety of the Par<g ref="char:EOLhyphen"/>liament, and Cities of <hi>London</hi> and <hi>Westminster</hi> doe conceive it most ne<g ref="char:EOLhyphen"/>cessary, that further care and provi<g ref="char:EOLhyphen"/>sion should bee had to prevent the great inconveniences that may arise by the continuance of the said per<g ref="char:EOLhyphen"/>sons in the said places, or their pre<g ref="char:EOLhyphen"/>sent resort to the said Cities, doe Or<g ref="char:EOLhyphen"/>daine and Declare, that the said Or<g ref="char:EOLhyphen"/>dinance, and all and every clause, and
+<pb n="4" facs="tcp:159678:4"/> article and provisoes thereof, shall continue and be in force to all intents and purposes, under the penalties therein mentioned, against all and every such person and persons for the space of one Moneth more from the end and expiration of the afore<g ref="char:EOLhyphen"/>said Month, as if the said Ordinance had been made to have continued for two Months from the said sixth day of <hi>Aprill.</hi> And it is further ordained, that all Persons that have born Arms against the Parliament; and all Pa<g ref="char:EOLhyphen"/>pists whatsoever, which went out of the Lines of Communication, in obedience to the said Ordinance, and all other such persons as aforesaid, as have since come from the Enemies Quarters to or neare the said Cities, shall by the twelth day of this instant
+<pb n="5" facs="tcp:159678:4"/>
+               <hi>May,</hi> depart and remove themselves twenty miles at the least distant from the said Cities, and Lines of Com<g ref="char:EOLhyphen"/>munication, under the penalties men<g ref="char:EOLhyphen"/>tioned in the said recited Ordinance: And of the places whither they in<g ref="char:EOLhyphen"/>tend to resort, shall give or send particular notice under their hands in writing unto the Committee sit<g ref="char:EOLhyphen"/>ting at <hi>Goldsmiths-Hall,</hi> mentioned in the said recited Ordinance, before the said twelfth day of <hi>May.</hi>
+            </p>
+            <closer>
+               <signed>H. Elsynge Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
